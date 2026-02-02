@@ -163,8 +163,6 @@ README.md
 
 🔮 Future Enhancements
 
-Add sales forecasting (time series)
-
 Integrate SQL or API data source
 
 Add drill-through reports
@@ -176,7 +174,9 @@ Implement incremental refresh
 👤 Author
 
 Name: Ayyanar M
+
 Role: Power BI Developer
+
 Skills: Power BI, DAX, Excel, SQL, Data Visualization
 
 ⭐ Conclusion
